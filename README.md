@@ -23,7 +23,9 @@ Members can submit proposals, and leads can review them.
 6. Communication Tools:
 Members can contact leads, and board members can communicate with each other.
 Email notifications (optional).
-Tech Stack
+
+Tech Stack:
+-
 Backend
 Python: Core programming language.
 Flask: Framework for routing and backend logic.
@@ -39,7 +41,8 @@ Flask-Mail: Email notifications.
 Matplotlib: Sales chart generation.
 dotenv: Secure environment variable management.
 
-Usage
+Usage:
+-
 1. Create Users
 Sign up users with different roles (Member, Lead, Board).
 Use the lead or board dashboards for managing tasks, events, and sales.
@@ -51,7 +54,9 @@ Add, update, and view club events.
 View product sales analytics and add new products.
 5. Monitor Member Contributions
 Review proposals submitted by members.
-Screenshots
+
+Screenshots:
+-
 1. Member Dashboard
 
 2. Lead Dashboard
@@ -60,7 +65,8 @@ Screenshots
 
 4. Sales Chart
 
-Testing
+Testing:
+-
 1. Functional Testing
 Used Selenium to automate testing of key user flows (e.g., task assignment, sales management).
 2. Performance Testing
@@ -71,10 +77,9 @@ Create a new branch: git checkout -b feature-name.
 Commit your changes: git commit -m "Add a new feature".
 Push to the branch: git push origin feature-name.
 Submit a pull request.
-License
-This project is licensed under the MIT License.
 
-Acknowledgments
+Acknowledgments:
+-
 Flask Documentation for backend inspiration.
 Bootstrap for frontend styling.
 Selenium and JMeter for testing frameworks.
