@@ -57,13 +57,20 @@ Review proposals submitted by members.
 
 Screenshots:
 -
-1. Member Dashboard
+1.![image](https://github.com/user-attachments/assets/9c3f1396-0d16-439a-ab5c-87a6af7a5a18)
 
-2. Lead Dashboard
 
-3. Task Assignment
+2. ![image](https://github.com/user-attachments/assets/796fc325-f508-4f18-9bab-bb7c3f38d01b)
 
-4. Sales Chart
+
+3. ![image](https://github.com/user-attachments/assets/71153b2c-0484-4941-989a-748867b2694e)
+
+
+4. ![image](https://github.com/user-attachments/assets/045f69be-82db-429e-a5ad-f40cfe29b9b9)
+5. ![image](https://github.com/user-attachments/assets/5c8b50db-bca1-4fe0-bd4a-1438f79364f8)
+6. ![image](https://github.com/user-attachments/assets/d19f82bd-9f18-431b-9f21-f3a9d3af65b6)
+
+
 
 Testing:
 -
